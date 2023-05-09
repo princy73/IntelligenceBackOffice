@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PROJET_AND_LOGICIEL_S5/MRNAINA/Actu/src/java/model/Region.java</file>
+            <file>file:/D:/PROJET_AND_LOGICIEL_S5/MRNAINA/Actu/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/D:/PROJET_AND_LOGICIEL_S5/MRNAINA/Actu/src/java/dao/HibernateDao.java</file>
+            <file>file:/D:/PROJET_AND_LOGICIEL_S5/MRNAINA/Actu/src/java/controller/Controller.java</file>
+            <file>file:/D:/PROJET_AND_LOGICIEL_S5/MRNAINA/Actu/web/WEB-INF/jsp/Home.jsp</file>
+            <file>file:/D:/PROJET_AND_LOGICIEL_S5/MRNAINA/Actu/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/D:/PROJET_AND_LOGICIEL_S5/MRNAINA/Actu/web/WEB-INF/web.xml</file>
+            <file>file:/D:/PROJET_AND_LOGICIEL_S5/MRNAINA/Actu/src/java/controller/RegionController.java</file>
+            <file>file:/D:/PROJET_AND_LOGICIEL_S5/MRNAINA/Actu/web/WEB-INF/jsp/regions.jsp</file>
+            <file>file:/D:/PROJET_AND_LOGICIEL_S5/MRNAINA/Actu/web/redirect.jsp</file>
+        </group>
+    </open-files>
+</project-private>
